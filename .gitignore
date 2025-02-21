@@ -1,0 +1,18 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore build files and object files
+*.o
+*.obj
+*.out
+
+# Ignore temporary files
+*.tmp
+*.log
+*.cache
+
+# Ignore dataset backups
+data/seat_data.txt
